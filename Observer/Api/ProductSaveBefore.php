@@ -1,4 +1,9 @@
 <?php
+/**
+ * @author Evangelos Pallis <info.vpsnak@gmail.com>
+ * @link https://github.com/vpsnak/magento2-rest-use-default
+ * @license   http://www.opensource.org/licenses/mit-license.html  MIT License
+ */
 
 namespace W2\EnhanceApi\Observer\Api;
 
